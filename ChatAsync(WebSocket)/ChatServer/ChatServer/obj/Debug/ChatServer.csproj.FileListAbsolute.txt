@@ -1,0 +1,15 @@
+Z:\Moje dokumenty\Pulpit Piotr\ChatServer (1)\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+Z:\Moje dokumenty\Pulpit Piotr\ChatServer (1)\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+Z:\Moje dokumenty\Pulpit Piotr\ChatServer (1)\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+Z:\Moje dokumenty\Pulpit Piotr\ChatServer (1)\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+Z:\Moje dokumenty\Pulpit Piotr\ChatServer (1)\ChatServer\ChatServer\obj\Debug\ChatServer.Server.resources
+Z:\Moje dokumenty\Pulpit Piotr\ChatServer (1)\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+Z:\Moje dokumenty\Pulpit Piotr\ChatServer (1)\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+Z:\Moje dokumenty\Pulpit Piotr\ChatServer (1)\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+Z:\Moje dokumenty\Pulpit Piotr\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+Z:\Moje dokumenty\Pulpit Piotr\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+Z:\Moje dokumenty\Pulpit Piotr\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+Z:\Moje dokumenty\Pulpit Piotr\ChatServer\ChatServer\obj\Debug\ChatServer.Server.resources
+Z:\Moje dokumenty\Pulpit Piotr\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.Cache
+Z:\Moje dokumenty\Pulpit Piotr\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+Z:\Moje dokumenty\Pulpit Piotr\ChatServer\ChatServer\obj\Debug\ChatServer.pdb

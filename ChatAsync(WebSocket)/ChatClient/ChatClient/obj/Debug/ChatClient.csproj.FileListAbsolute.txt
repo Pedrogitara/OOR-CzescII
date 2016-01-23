@@ -1,0 +1,7 @@
+Z:\Moje dokumenty\Pulpit Piotr\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+Z:\Moje dokumenty\Pulpit Piotr\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+Z:\Moje dokumenty\Pulpit Piotr\ChatClient\ChatClient\obj\Debug\ChatClient.Client.resources
+Z:\Moje dokumenty\Pulpit Piotr\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+Z:\Moje dokumenty\Pulpit Piotr\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+Z:\Moje dokumenty\Pulpit Piotr\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+Z:\Moje dokumenty\Pulpit Piotr\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
