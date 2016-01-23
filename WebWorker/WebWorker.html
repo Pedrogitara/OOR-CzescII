@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>WebWorkers - ilość losowo wypisywanych wyrazów</title>
+</head>
+<body>
+<p>	
+	Ile wypisać wyrazów: <input type="text" id="num" />
+	<button id="submit">Wypisz wyrazy</button>
+</p>
+<div id="panel"></div>
+
+<script>
+
+	// Tworzenie Workera
+	var worker = new Worker("lipsum.js");
+	
+	// Wywołanie funkcji event - wypisanie losowych wyrazów w div'ie "panel"
+	worker.onmessage = function(event)
+	{
+		console.log(event);
+		document.getElementById("panel").innerText = event.data.lipsum;
+	};
+	
+	// Pobieramy liczbę wyrazów z textBox'a po akcji kliknięcia przycisku
+	document.getElementById("submit").onclick = function()
+	{
+		var totalWords = document.getElementById("num").value;
+		document.getElementById("panel").innerText = "";
+		worker.postMessage({num: totalWords});
+	};
+	
+</script>
+
+</body>
+</html>
